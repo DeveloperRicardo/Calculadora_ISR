@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora ISR</string>
+
+    <string-array name="periodoItems">
+        <item>Semanal</item>
+        <item>Quincenal</item>
+        <item>Mensual</item>
+    </string-array>
+</resources>
